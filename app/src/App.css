@@ -1,0 +1,12 @@
+
+.title {
+  font-size: 5em;
+  text-align: center;
+  font-family: Monospace;
+  color: rgb(255, 255, 255);
+}
+
+.main-div {
+  margin: auto;
+  width: 50%; 
+}
